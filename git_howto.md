@@ -10,7 +10,12 @@ git init
 git add
 ~~~
 
+## Фиксация версии и уведомление о внесенных изменениях
+~~~sh
 git commit -m "Messege"
+~~~
+
+
 git log
 
 git log --oneline
