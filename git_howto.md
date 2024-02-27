@@ -15,8 +15,11 @@ git add
 git commit -m "Messege"
 ~~~
 
-
+## Вывод всех сохраненных версий файла (коммитов)
+~~~sh
 git log
+~~~
+
 
 git log --oneline
 git checkout
