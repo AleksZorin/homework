@@ -20,7 +20,11 @@ git commit -m "Messege"
 git log
 ~~~
 
-
+## Упрощенный список всех сохраненных версий
+~~~sh
 git log --oneline
+~~~
+
+
 git checkout
 
