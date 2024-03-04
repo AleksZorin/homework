@@ -34,3 +34,8 @@ git checkout
 ~~~sh
 git branch
 ~~~
+
+## Создание ветки файле
+~~~sh
+git branch branch_name
+~~~
