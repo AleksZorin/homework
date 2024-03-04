@@ -27,7 +27,11 @@ git log --oneline
 
 ## Переключение между сохраненными версиями файла в репозитории
 ~~~sh
+<<<<<<< HEAD
 git checkout <branch_name>
+=======
+git checkout <имя ветки>
+>>>>>>> branch_command
 ~~~
 
 ## Вывод всех ветвей изменений
