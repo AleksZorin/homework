@@ -29,3 +29,8 @@ git log --oneline
 ~~~sh
 git checkout
 ~~~
+
+## Вывод всех ветвей изменений
+~~~sh
+git branch
+~~~
