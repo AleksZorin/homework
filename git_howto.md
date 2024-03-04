@@ -39,3 +39,8 @@ git branch
 ~~~sh
 git branch branch_name
 ~~~
+ 
+## Переход между ветками
+~~~sh
+git checkout branch_name
+~~~
