@@ -49,3 +49,8 @@ git checkout branch_name
 ~~~sh
 git merge branch_name
 ~~~
+
+Отображение всех веток
+~~~sh
+git branch
+~~~
