@@ -27,21 +27,12 @@ git log --oneline
 
 ## Переключение между сохраненными версиями файла в репозитории
 ~~~sh
-<<<<<<< HEAD
-git checkout <branch_name>
-=======
-git checkout <имя ветки>
->>>>>>> branch_command
+git checkout <имя_ветки>
 ~~~
 
 ## Вывод всех ветвей изменений
 ~~~sh
 git branch
-~~~
-
-## Создание ветки файле
-~~~sh
-git branch branch_name
 ~~~
  
 ## Переход между ветками
@@ -62,4 +53,9 @@ git branch
 Переключение между ветками
 ~~~sh
 git checkout <имя ветки>
+~~~
+
+## Создание ветки файле
+~~~sh
+git branch branch_name
 ~~~
