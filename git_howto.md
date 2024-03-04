@@ -54,3 +54,8 @@ git merge branch_name
 ~~~sh
 git branch
 ~~~
+
+Переключение между ветками
+~~~sh
+git checkout <имя ветки>
+~~~
