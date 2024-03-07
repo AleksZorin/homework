@@ -51,3 +51,8 @@ git checkout branch_name
 ~~~sh
 git merge branch_name
 ~~~
+
+## Удаление ветки
+~~~sh
+git branch -d branch_name
+~~~
