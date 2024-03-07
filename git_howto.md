@@ -46,3 +46,8 @@ git branch branch_name
 ~~~sh
 git checkout branch_name
 ~~~
+
+## Слияние ветки
+~~~sh
+git merge branch_name
+~~~
