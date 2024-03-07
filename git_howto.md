@@ -45,23 +45,3 @@ git branch branch_name
 ~~~sh
 git checkout branch_name
 ~~~
-
-## Слияние ветки
-~~~sh
-git merge branch_name
-~~~
-
-## Удаление ветки
-~~~sh
-git branch -d branch_name
-~~~
-
-## Визуализация лога коммитов
-~~~
-git log --graph
-~~~
-
-## Визуализация лога коммитов с ключом oneline
-~~~sh
-git log --oneline --graph
-~~~
