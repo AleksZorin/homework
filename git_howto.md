@@ -58,3 +58,8 @@ git branch -d <имя ветки>
 ~~~
 git log --graph
 ~~~
+
+## Визуализация лога коммитов с ключом oneline
+~~~sh
+git log --oneline --graph
+~~~
