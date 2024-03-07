@@ -29,7 +29,6 @@ git log --oneline
 ~~~sh
 git checkout <номер изменения>
 ~~~
-
 # Работа с ветками в Git
 
 ## Обзор всех веток в файле
@@ -50,4 +49,19 @@ git checkout branch_name
 ## Слияние ветки
 ~~~sh
 git merge branch_name
+~~~
+
+## Удаление ветки
+~~~sh
+git branch -d branch_name
+~~~
+
+## Визуализация лога коммитов
+~~~
+git log --graph
+~~~
+
+## Визуализация лога коммитов с ключом oneline
+~~~sh
+git log --oneline --graph
 ~~~
