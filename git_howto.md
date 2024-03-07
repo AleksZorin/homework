@@ -62,7 +62,7 @@ git branch -d branch_name
 git log --graph
 ~~~
 
-## Визуализация лога коммитов с ключом online
+## Визуализация лога коммитов с ключом oneline
 ~~~sh
-git log --online --graph
+git log --oneline --graph
 ~~~
