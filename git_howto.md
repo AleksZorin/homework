@@ -56,3 +56,8 @@ git merge branch_name
 ~~~sh
 git branch -d branch_name
 ~~~
+
+## Визуализация лога коммитов
+~~~
+git log --graph
+~~~
