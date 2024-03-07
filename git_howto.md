@@ -53,4 +53,8 @@ git merge branch_name
 ## Удаление ветки
 ~~~sh
 git branch -d branch_name
+
+## Визуализация лога коммитов
+~~~
+git log --graph
 ~~~
